@@ -1,3 +1,5 @@
+# Script to Encode a PowerShell Reverse Shell with Base64
+
 A simple Python script to generate a Base64 encoded PowerShell reverse shell one-liner.
 
 Download:
