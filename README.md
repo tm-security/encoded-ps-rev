@@ -1,4 +1,4 @@
-A simple Python script to generate a Base64 encoded PowerShell reverse shell one-liner
+A simple Python script to generate a Base64 encoded PowerShell reverse shell one-liner.
 
 Download:
 
